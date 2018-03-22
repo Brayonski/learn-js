@@ -1,0 +1,23 @@
+img{
+  height:100px;
+  width:100px;
+  display:none;
+}
+
+h1{
+  cursor: pointer;
+  color: #0088cc;
+}
+
+h1:hover{
+  text-decoration: underline;
+}
+
+.clickable{
+  cursor: pointer;
+  color:#0088cc;
+}
+
+.clickable:hover{
+  text-decoration:underline;
+}
